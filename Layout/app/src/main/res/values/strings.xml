@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Layout</string>
+    <string name="title">Noche de Lluvia</string>
+    <string name="date">26 Dic 2017</string>
+    <string name="message">Este ta es bajo la lluvia y es bueno mojarse pero puedes enfermarte.</string>
+    <string name="boton1">ME GUSTA</string>
+    <string name="boton2">COMENTAR</string>
 </resources>

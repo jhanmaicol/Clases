@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="anchoEntreLayout">16dp</dimen>
+    <dimen name="anchoEntreLaImagen">16dp</dimen>
+    <dimen name="SeparacionEntreLayout">16dp</dimen>
+    <dimen name="anchoDeBotones">0dp</dimen>
+    <item name="PesoEntreBotones" type="dimen" format="float">0.1</item>
+</resources>
