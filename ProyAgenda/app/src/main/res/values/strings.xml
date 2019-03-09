@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyAgenda</string>
+    <string name="item_add">Add</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Empresa">Empresa</string>
+    <string name="Numero">Numero</string>
+    <string name="item_guardar">Guardar</string>
+</resources>
