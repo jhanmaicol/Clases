@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.actionbar02.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/ins" android:icon="@drawable/ins" android:title="Nuevo" app:showAsAction="always" />
+    <item android:id="@+id/upd" android:icon="@drawable/upd" android:title="Actualizar" app:showAsAction="always"/>
+    <item android:id="@+id/del" android:icon="@drawable/del" android:title="Retirar" app:showAsAction="always"/>
+    <item android:id="@+id/Rojo" android:title="Rojo" android:orderInCategory="1"/>
+    <item android:id="@+id/Verde" android:title="Verde" android:orderInCategory="2"/>
+    <item android:id="@+id/Azul" android:title="Azul" android:orderInCategory="3"/>
+
+</menu>
